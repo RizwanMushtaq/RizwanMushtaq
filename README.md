@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RizwanMushtaq
+<h1>- 👋 Hi, I’m @RizwanMushtaq</h1>
 - 👀 I’m interested in JavaScript Development.
 - 🌱 I’m currently learning JavaScript APIs.
 - 💞️ I’m looking to collaborate on Web Application Development.
