@@ -1,8 +1,8 @@
-<h1>👋 Hi, I’m @RizwanMushtaq</h1>
-- 👀 I’m interested in JavaScript Development.
-- 🌱 I’m currently learning JavaScript APIs.
-- 💞️ I’m looking to collaborate on Web Application Development.
-- 📫 How to reach me rizwanmushtaq15@gmail.com.
+<h1>👋 Hi, I’m @RizwanMushtaq</h1></br>
+👀 I’m interested in JavaScript Development.</br>
+🌱 I’m currently learning JavaScript APIs.</br>
+💞️ I’m looking to collaborate on Web Application Development.</br>
+📫 How to reach me rizwanmushtaq15@gmail.com.</br>
 
 <!---
 RizwanMushtaq/RizwanMushtaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
