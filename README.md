@@ -1,6 +1,7 @@
-<h1>👋 Hi, I’m @RizwanMushtaq</h1></br>
-👀 I’m interested in JavaScript Development.</br>
-🌱 I’m currently learning JavaScript APIs.</br>
+<h1>👋 Hi, I’m @RizwanMushtaq</h1>
+<h2> A front end Web Developer</h2>
+👀 I’m interested in Web Application Development.</br>
+🌱 I’m currently learning React.js</br>
 💞️ I’m looking to collaborate on Web Application Development.</br>
 📫 How to reach me rizwanmushtaq15@gmail.com.</br>
 
