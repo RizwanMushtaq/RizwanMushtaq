@@ -1,4 +1,5 @@
-<h1>👋 Hi, I’m @RizwanMushtaq</h1>
+<h1>👋 Hi, Welcome</h1>
+<h1>I’m Rizwan Mushtaq</h1>
 <h2> A front end Web Developer</h2>
 👀 I’m interested in Web Application Development.</br>
 🌱 I’m currently learning React.js</br>
