@@ -1,5 +1,5 @@
 <h1>👋 Hi, Welcome I’m Rizwan Mushtaq</h1>
-<h2> A front end Web Developer</h2>
+<h2> A Front End Web Developer</h2>
 👀 I’m interested in Web Application Development.</br>
 🌱 I’m currently learning React.js</br>
 💞️ I’m looking to collaborate on Web Application Development.</br>
