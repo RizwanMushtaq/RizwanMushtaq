@@ -12,8 +12,8 @@
     App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master</br>
     
   <h3>Vanilla JavaScript Based Print My Tweet App:<h3>
-    App link : https://rizwanmushtaq.github.io/react_todo_app/</br>
-    App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master</br>
+    App link : https://rizwanmushtaq.github.io/PrintMyTweet/</br>
+    App Code : https://github.com/RizwanMushtaq/PrintMyTweet/tree/main</br>
 
 <!---
 RizwanMushtaq/RizwanMushtaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
