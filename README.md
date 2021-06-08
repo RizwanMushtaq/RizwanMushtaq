@@ -8,10 +8,12 @@
 
 <h2>Portfolio:<h2>
   <h2>React.JS Based TODO App:<h2>
-    App link : https://rizwanmushtaq.github.io/react_todo_app/
-    App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master
+    <h3>App link : https://rizwanmushtaq.github.io/react_todo_app/</h3>
+    <h3>App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master</h3>
     
   <h2>Vanilla JavaScript Based Print My Tweet App:<h2>
+    <h3>App link : https://rizwanmushtaq.github.io/react_todo_app/</h3>
+    <h3>App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master</h3>
 
 <!---
 RizwanMushtaq/RizwanMushtaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
