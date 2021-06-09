@@ -8,9 +8,8 @@
 
 <h2>Portfolio:</h2>
   <h3>React.js Based TODO App:<h3>
-    App link : <a href='https://rizwanmushtaq.github.io/react_todo_app'>Live Demo</a>
-    App link : https://rizwanmushtaq.github.io/react_todo_app/</br>
-    App Code : https://github.com/RizwanMushtaq/react_todo_app/tree/master</br>
+    App link : <a href='https://rizwanmushtaq.github.io/react_todo_app'>Live Demo</a></br>
+    App link : <a href='https://github.com/RizwanMushtaq/react_todo_app/tree/master'>Code</a></br>
     
   <h3>Vanilla JavaScript Based Print My Tweet App:<h3>
     App link : https://rizwanmushtaq.github.io/PrintMyTweet/</br>
