@@ -7,7 +7,7 @@
 
 
 <h2>Portfolio:</h2>
-  <h3>React.js Based TODO App:<h3>
+  <h3>React.js Based TODO App:<h3></br>
   <a href='https://rizwanmushtaq.github.io/react_todo_app'>Live Demo</a></br>
   <a href='https://github.com/RizwanMushtaq/react_todo_app/tree/master'>Code</a></br>
     
