@@ -5,9 +5,9 @@
 💞️ I’m looking to collaborate on Web Application Development.</br>
 📫 How to reach me 0049-17624044101/rizwanmushtaq15@gmail.com.</br>
 
-
+</br>
 <h2>Portfolio:</h2>
-  <h3>React.js Based TODO App:<h3></br>
+  <h3>React.js Based TODO App:<h3>
   <a href='https://rizwanmushtaq.github.io/react_todo_app'>Live Demo</a></br>
   <a href='https://github.com/RizwanMushtaq/react_todo_app/tree/master'>Code</a></br>
     
