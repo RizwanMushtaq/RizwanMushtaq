@@ -8,7 +8,7 @@
 </br>
 <h2>My Portfolio Web APP:</h2>
   
-  <a href='https://awesome-swirles-d3349a.netlify.app/'>My Portfolio</a></br>
+  <a href='https://rizwanmushtaq.netlify.app/'>My Portfolio</a></br>
   
     
 
