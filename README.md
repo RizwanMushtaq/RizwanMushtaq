@@ -2,7 +2,7 @@
 <h2> A Front End Web Developer</h2>
 👀 I’m interested in Web Application Development.</br>
 🌱 I’m currently learning Typescript & React.js</br>
-💞️ I’m looking to collaborate on Web Application Development.</br>
+💞️ I’m looking to collaborate on Web Development.</br>
 📫 How to reach me 0049-17624044101/rizwanmushtaq15@gmail.com.</br>
 
 </br>
