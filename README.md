@@ -1,4 +1,4 @@
-<h1>👋 Hi, Welcome I’m Rizwan Mushtaq</h1>
+<h1>👋 Hi, Welcome I’m Rizwan Mushtaq Dhudhaal</h1>
 <h2> A Front End Web Developer</h2>
 👀 I’m interested in Web Application Development.</br>
 🌱 I’m currently learning Typescript & React.js</br>
