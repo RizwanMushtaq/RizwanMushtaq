@@ -8,7 +8,7 @@
 </br>
 <h2>My Portfolio Web APP:</h2>
   
-  <a href='https://rizwan-portfolio-react-typescript.netlify.app/'>My Portfolio</a></br>
+  <a href='https://rizwan-portfolio-next-js.vercel.app/'>My Portfolio</a></br>
   
     
 
