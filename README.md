@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwanmushtaq" alt="rizwanmushtaq" /></a> </p>
-
 - 🌱 I’m currently learning **RxJS and NgRx state-management**
 
 - 👨‍💻 All of my projects are available at [https://dhudhaal.com/](https://dhudhaal.com/)
