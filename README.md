@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RxJS and NgRx state-management**
 
-- 👨‍💻 All of my projects are available at [https://rizwanmushtaqdhudhaal.netlify.app/](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://rizwanmushtaqdhudhaal.netlify.app/)
 
 - 💬 Ask me about **Angular**
 
