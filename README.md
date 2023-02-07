@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-- 🌱 I’m currently learning **RxJS and NgRx state-management**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://www.rizwanmushtaq.com/)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular, React**
 
 - 📫 How to reach me **rizwanmushtaq15@gmail.com**
 
-- 📄 Know about my experiences [https://dhudhaal.com/assets/resume/CV_Rizwan.pdf](https://dhudhaal.com/assets/resume/CV_Rizwan.pdf)
+- 📄 Know about my experiences [https://www.rizwanmushtaq.com/](https://www.rizwanmushtaq.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
