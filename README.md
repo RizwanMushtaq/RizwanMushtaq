@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rizwanmushtaq15@gmail.com**
 
-- 📄 Know about my experiences [https://www.rizwanmushtaq.com/](https://www.rizwanmushtaq.com)
+- 📄 Know about my experiences [rizwanmushtaq.com](https://www.rizwanmushtaq.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
