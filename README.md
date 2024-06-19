@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React Compiler**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://www.rizwanmushtaq.com/)
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **JavaScript, React, Node.js, Nest.js**
 
 - 📫 How to reach me **rizwanmushtaq15@gmail.com**
 
