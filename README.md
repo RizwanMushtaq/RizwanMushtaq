@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-- 🌱 I’m currently learning **React Compiler**
+- 🌱 I’m currently learning **nginx**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://www.rizwanmushtaq.com/)
 
