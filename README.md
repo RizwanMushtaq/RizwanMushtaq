@@ -99,7 +99,9 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanmushtaq&show_icons=true&locale=en&layout=compact" alt="rizwanmushtaq" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanmushtaq&show_icons=true&locale=en&layout=compact" alt="rizwanmushtaq" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanmushtaq&show_icons=true&locale=en" alt="rizwanmushtaq" /></p>
 
