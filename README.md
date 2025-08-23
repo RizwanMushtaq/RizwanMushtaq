@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 My personal Blog [portfolio](https://www.rizwanmushtaq.com/blog)
 
-- 💬 Ask me about **JavaScript, React, Node.js, Nest.js**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, TypeScript, React, Node.js**
 
 - 📫 How to reach me **rizwanmushtaq15@gmail.com**
 
