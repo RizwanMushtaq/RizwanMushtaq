@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://www.rizwanmushtaq.com/)
+- 👨‍💻 My personal Blog [portfolio](https://www.rizwanmushtaq.com/blog)
 
 - 💬 Ask me about **JavaScript, React, Node.js, Nest.js**
 
