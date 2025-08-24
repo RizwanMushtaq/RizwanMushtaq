@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 My personal Blog [portfolio](https://www.rizwanmushtaq.com/blog)
+- 👨‍💻 [My personal Blog](https://www.rizwanmushtaq.com/blog)
 
 - 💬 Ask me about **Java, Spring Boot, JavaScript, TypeScript, React, Node.js**
 
