@@ -7,7 +7,7 @@
 
 - 👨‍💻 [My personal Blog](https://www.rizwanmushtaq.com/blog)
 
-- 💬 Ask me about **Java, Srping, Spring Boot, JavaScript, TypeScript, React, Node.js**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Python, Java**
 
 - 📫 How to reach me **rizwanmushtaq15@gmail.com**
 
