@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanmushtaq" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **LLMs**
 
 - 👨‍💻 [My personal Blog](https://www.rizwanmushtaq.com/blog)
 
