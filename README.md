@@ -55,10 +55,4 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanmushtaq&show_icons=true&locale=en&layout=compact&langs_count=8" alt="rizwanmushtaq" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanmushtaq&show_icons=true&locale=en" alt="rizwanmushtaq" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanmushtaq&" alt="rizwanmushtaq" /></p>
