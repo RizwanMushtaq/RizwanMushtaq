@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLMs**
 - 👨‍💻 My personal Blog: https://www.rizwanmushtaq.com/blog
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Python, Java**
+- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, Python**
 - 📫 How to reach me: **rizwanmushtaq15@gmail.com**
 - 📄 Want to know more about me: https://www.rizwanmushtaq.com
 
