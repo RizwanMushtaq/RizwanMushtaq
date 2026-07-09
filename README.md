@@ -13,4 +13,5 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />](https://www.linkedin.com/in/rizwanmushtaq15/)
 
 ### Profile stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanmushtaq&"/>
+<img src="https://demolab.com" alt="GitHub Streak" />
+
